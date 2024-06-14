@@ -1,0 +1,3 @@
+[submodule "ecommdjango"]
+	path = ecommdjango
+	url = https://github.com/AlvinKab/Ecom-proj-inner
